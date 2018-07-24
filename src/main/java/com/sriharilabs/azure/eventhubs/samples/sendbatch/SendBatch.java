@@ -2,7 +2,7 @@
  * Copyright (c) Microsoft. All rights reserved.
  * Licensed under the MIT license. See LICENSE file in the project root for full license information.
  */
-package com.microsoft.azure.eventhubs.samples.sendbatch;
+package com.sriharilabs.azure.eventhubs.samples.sendbatch;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
